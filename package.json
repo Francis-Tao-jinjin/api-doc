@@ -1,0 +1,20 @@
+{
+  "name": "ECC-ATS-Control",
+  "version": "0.1.0",
+  "dependencies": {
+    "livescript": "^1.4.0",
+    "npm": "^3.8.6"
+  },
+  "devDependencies": {
+    "apidoc": "^0.16.1",
+    "del": "~2.0.2",
+    "gulp": "~3.9.0",
+    "gulp-apidoc": "^0.2.4"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "apidoc": {
+    "title": "ATS apiDoc"
+  }
+}
